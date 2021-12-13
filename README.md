@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhargav-modha
 - 👀 I’m interested in Android Development, Machine Learning & Full Stack development
-- 🌱 COmpleted Diploma @Marwadi University & currently doing my BTech. at Nirma University
+- 🌱 Completed Diploma @Marwadi University & currently doing my BTech. at Nirma University
 - 📫 I can be reached at any of the social media or on my personal mail address
 
 <!---
